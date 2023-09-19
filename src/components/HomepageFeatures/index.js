@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Unique',
+    Svg: require('@site/static/img/undraw_1.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Docs yang cukup berbeda dari yang lainnya karena ardocs ini update berdasarkan pembelajaran personal.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Redundant Better',
+    Svg: require('@site/static/img/undraw_2.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Redudansi dokumentasi dengan dukungan video youtube di channel Bocil programer untuk memperjelas panduan.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Generalist',
+    Svg: require('@site/static/img/undraw_3.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Dokumentasi tidak terikat ke satu atau dua bahasa pemrograman saja, bahkan bisa nyebrang sampai ke networking dan lainnya.
       </>
     ),
   },
